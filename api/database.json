@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tonya Ritchels",
+      "computerId": 2,
+      "departmentId": 2
+    },
+    {
+      "id": 2,
+      "name": "Jose Smith",
+      "computerId": 1,
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "name": "Enis Thumb",
+      "computerId": 2,
+      "departmentId": 1
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "name": "HP Pyuterpal"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Slo"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "sales"
+    },
+    {
+      "id": 2,
+      "name": "IT"
+    }
+  ]
+}
